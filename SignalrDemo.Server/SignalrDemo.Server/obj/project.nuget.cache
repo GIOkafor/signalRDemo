@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nInxDlHYinVDUJLQRqOAKGQQM2Po0ashAj4TP3P/yAe0u0gZuvh5DLytE5NSVaHh+mdYBgu2NKjKD08A54jSQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ik.okafor\\OneDrive - Comsense Inc\\Documents\\apps\\signals demo\\SignalrDemo.Server\\SignalrDemo.Server\\SignalrDemo.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ik.okafor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\ik.okafor\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\ik.okafor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\ik.okafor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.18\\microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
